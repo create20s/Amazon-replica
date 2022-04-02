@@ -1,0 +1,20 @@
+.flex-center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .text-center{
+    text-align: center;
+ }
+ .my-2{
+    margin: 15px 20px 0px 20px;
+    padding: 20px 0px;
+ }
+ .my-1{
+    margin: 5px;
+ }
+ .my-3{
+    margin: 0px 20px;
+ }
